@@ -1,10 +1,10 @@
-# Parazit SEO ile Mücadele 🚨
+# Parazit SEO ile Mücadele
 
 Bu proje, web sitelerini **Parazit SEO** (Negatif SEO) saldırılarına karşı korumayı amaçlayan bir rehber ve araç seti sunar. Parazit SEO, genellikle bir web sitesinin arama motorlarındaki sıralamasını düşürmek amacıyla kötü niyetli yöntemlerle yapılan saldırılardır.
 
 ---
 
-## Parazit SEO Nedir? 🤔
+## Parazit SEO Nedir?
 
 Parazit SEO, bir web sitesinin performansını ve güvenilirliğini zedelemek amacıyla gerçekleştirilen bir dizi etik dışı SEO tekniğidir. Bu saldırılar genellikle aşağıdaki yöntemleri içerir:
 
@@ -16,7 +16,7 @@ Parazit SEO, bir web sitesinin performansını ve güvenilirliğini zedelemek am
 
 ---
 
-## Özellikler 🚀
+## Özellikler
 
 Bu proje, Parazit SEO saldırılarıyla mücadele etmek için aşağıdaki özellikleri sağlar:
 
@@ -37,9 +37,6 @@ Bu proje, Parazit SEO saldırılarıyla mücadele etmek için aşağıdaki özel
 
 ---
 
-## Nasıl Kullanılır? 🛠️
+## İletişim
 
-1. **Projeyi Klonlayın**:
-   ```bash
-   git clone https://github.com/kullaniciadi/parazit-seo.git
-   cd parazit-seo
+Parazit SEO hizmeti almak veya detaylı bilgi için [Telegram](https://t.me/baneseo) adresinden bizimle iletişime geçebilirsiniz.
