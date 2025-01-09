@@ -1,4 +1,4 @@
-# Parazit SEO ile Mücadele
+# Parazit SEO
 
 Bu proje, web sitelerini **Parazit SEO** (Negatif SEO) saldırılarına karşı korumayı amaçlayan bir rehber ve araç seti sunar. Parazit SEO, genellikle bir web sitesinin arama motorlarındaki sıralamasını düşürmek amacıyla kötü niyetli yöntemlerle yapılan saldırılardır.
 
